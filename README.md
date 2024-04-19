@@ -1,4 +1,4 @@
-# DiagramacaoClasseIphone
+# DiagramacaoClasseIphone 🍵
 
 Este é um projeto de exemplo que demonstra um modelo simples de um iPhone em Java. Ele inclui classes para representar um iPhone, um Reprodutor de Música, um Aparelho Telefônico e um Navegador na Internet, com funcionalidades básicas.
 
@@ -9,10 +9,9 @@ Para executar este projeto, você precisará do seguinte:
 - Java Development Kit (JDK): Certifique-se de ter o JDK instalado na sua máquina. Você pode fazer o download em [java.oracle.com](https://www.oracle.com/java/technologies/javase-downloads.html).
 
 ## Como usar
+Clone este repositório para a sua máquina local:<br>
 
-1. Clone este repositório para a sua máquina local:
-
-4. O programa demonstrará o funcionamento do iPhone, incluindo a reprodução de música, chamadas telefônicas e navegação na internet. Certifique-se de seguir as instruções apresentadas no terminal.
+O programa demonstrará o funcionamento do iPhone, incluindo a reprodução de música, chamadas telefônicas e navegação na internet. Certifique-se de seguir as instruções apresentadas no terminal.
 
 ## Estrutura do projeto
 
@@ -28,3 +27,6 @@ Para executar este projeto, você precisará do seguinte:
 ## Contribuições
 
 Sinta-se à vontade para contribuir com melhorias para este projeto. Basta abrir uma "Pull Request" e eu ficarei feliz em revisar e mesclar suas contribuições.
+
+![DarthVaderStarWarsGIF](https://github.com/ErikaMendes89/DiagramacaoClasseIphone/assets/95776659/5b9aca2c-6546-4448-81b1-e35f5e0c8646)
+
